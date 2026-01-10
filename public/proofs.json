@@ -1,0 +1,23 @@
+{
+  "root": "0x2c02f7f4f9b26be1d6151c8d8fa2f8001d5a40abbe74c4d8f1e1fe1d647f9b12",
+  "proofs": {
+    "0x3f6f00000000000000000000000000000000f1d2": {
+      "amount": "12500",
+      "proof": [
+        "0x4a4f7f1d1b0f4631fbcc9d0b4b2b87f6f0cf5bb3edaf2f4f7a7b1a620fe5341d"
+      ]
+    },
+    "0xa92c000000000000000000000000000000003bf7": {
+      "amount": "8000",
+      "proof": [
+        "0x5b2d0eb2f1b7f2cb66ce1e3d2a9e5a0a2c1f28ff5c9a5e6f7b34d8f8f1f8a31a"
+      ]
+    },
+    "0x54b10000000000000000000000000000000090ea": {
+      "amount": "1250",
+      "proof": [
+        "0x9c8e3f7b8c7b1d2f1e4c7a6d5b4c3a2f1e0d9c8b7a6d5e4c3b2a1f0e9d8c7b6a"
+      ]
+    }
+  }
+}
